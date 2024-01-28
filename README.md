@@ -1,4 +1,4 @@
-# LLM QLoRA fine tune for Mistral-7B (any <= 7B model) for SQL Generation
+# LLM QLoRA fine tune for Mistral-7B for SQL Generation
 
 Use Hugging Face [TRL](https://huggingface.co/docs/trl/index) library to train QLoRA adaptors on Mistral-7B.
 
